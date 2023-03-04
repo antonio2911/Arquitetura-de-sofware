@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ksO0sZ66i3rj8Z3S3RcJFCYy8f3WeE1z2Z5IgxzBuBLjA3x9KHx4YeREr3Tmg27Q6Ionn1eNOdDt1L3ih0So7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antonio.pardim\\Desktop\\Git\\Arquitetura de software\\ARQ2\\ProjetoB\\ProjetoB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
