@@ -1,0 +1,153 @@
+configuraçao do git hub
+git config --list
+git config --global user.name ""
+
+git log para ver os historicos do versionamento
+
+
+topico como verificar o historico de versões
+
+git log
+git log --oneline (versões resumidas)
+
+
+apos o add . se quiser voltar o arquivo para a area de stage ou na detecção inicial
+
+git reset (remover da area de staged)
+
+adicionar apenas um arquivo
+git add sobre.html
+
+
+
+git diff ou git diferença comando que mostra a diferença entre arquivos modificados
+
+git diff (caminho/nome do arquivo)
+
+exemplo: git diff vendas.html
+
+
+git checkout
+permite modificar temporariamente os arquivos do projeto ao estado de um dado commit ou branch
+
+exemplo de uso com o comando git log --oneline eu consigo pegar um codigo de um comite anterior que eu quero pegar a alteração a partir dele
+
+com o comando : git checkout (codigo do comite) / git checkout 48fnh2934bdf92u12hsdh94olg
+
+quando você esta em uma versão anterior e deseja voltar para a ultima versão commitada o comando pode ser:
+
+git checkout (codigo do ultimo commit) ou git checkout main = git checkout(branch) que automaticamente ele pega a ultima versão dos commits
+
+sabendo o conceito de Head que seria o apontamento do commit atual ao qual você esta utilizando dar para voltar pegando o ultimo ou antepenutimo utilizando 
+o git checkout HEAD~1 um commit antes do "head" atual selecionado exemplo
+
+Head = ultimo commit
+git checkout HEAD~3
+volta 3 commits antes
+
+
+importante: nunca volte os arquivos para a ultima versão do commit com alteração pendente naquele commit que você consultou porque se não as alterações realizadas vai ficar no limbo e prejudicar as boas praticas do git
+para confirmar que não teve nenhuma alteração acidentalmente rodar os seguintes comando
+
+git reset (tirar da area de staged)
+git clean --df (usado para remover arquivos não rastreados no diretório de trabalho)
+git checkout -- . ( descartar todas as alterações feitas em arquivos que ainda não foram adicionados ao índice (staged))
+
+
+
+O comando git clean --df:
+ é usado para remover arquivos não rastreados no diretório de trabalho. Isso inclui arquivos que não estão sob controle de versão do Git, bem como arquivos que foram ignorados pelo Git.
+
+O parâmetro --d diz ao Git para remover diretórios não rastreados, e o parâmetro --f diz ao Git para forçar a remoção, mesmo que haja arquivos que possam ser perdidos.
+
+No entanto, é importante lembrar que o comando git clean é irreversível e os arquivos excluídos não podem ser recuperados facilmente, portanto, deve ser usado com cuidado.
+
+Já o comando git checkout -- . :
+é usado para descartar todas as alterações feitas em arquivos que ainda não foram adicionados ao índice (staged), ou seja, alterações no diretório de trabalho que ainda não foram registradas pelo Git.
+
+
+gitignore
+arquivo que indica o que não deve ser salvos no git
+
+resolvendo problemas com o git
+
+como remover arquivos da area de stage
+
+git status
+git reset
+
+
+como desfazer suas modificações e voltar no ponto do ultimo commit
+
+git reset
+git clean -df
+git checkout -- .
+
+
+como desfazer de um commit sem desfazer as modificações nos arquivos.
+
+git status
+git reset --soft HEAD~1
+
+comando bom para voltar no ultimo commit e acrescentar mais coisas relavantes ou reparar um erro 
+ao rodar o comando os arquivos do ultimo commit vão para a area de staged ai e so alterar que automaticamente os arquivos sai do staged ai e so fazer um novo commit e subir a alteração
+
+
+como deletar commits e tambem modificações nos arquivos
+
+git status
+git reset --hard (codigo do commit)
+
+voltar o projeto ao estado do ultimo commit
+git reset --hard HEAD~1
+
+Atenção: essa e uma ação destrutiva.
+
+como atualizar o repositório local em relação ao remoto
+
+git pull origin main (voltar com tudo que esta no repositorio remoto)
+
+git pull (nome do remoto) (nome do branch)
+
+
+
+como resolver push rejeitado
+
+não e permitido enviar um push se seu repositório local está atrasado em relação ao histórico do repositório remoto
+exemplo: remoto commit 1, 2, e 3
+
+local: commit 1,2,3,4,5 e 6
+
+primeiro dar um git pull depois o git push
+
+git pull (nome do remote) (nome do branch)
+
+para resolver conflito de merge no ele vai aparece na tela comentado o codigo com as alterações ai você deve editar conforme ele deve ficar e fazer o push novamente
+ele manterar os dois commits e gera um terceiro do merge.
+
+
+como sobrscrever um histórico no gitHub
+
+git push -f (nome do remote) (nome da brach)
+
+git push -f origin main
+para força o push e ignorar o fato de sua maquina ter mais commit que o repositorio remoto
+
+atenção: essa ação e destrutiva você vai perder as alterações do seu repositorio remoto e o que vai esta no remoto e espelho do que vai esta na sua maquina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
