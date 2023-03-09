@@ -1,0 +1,5 @@
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\Arquitetura\OOP\obj\Debug\net5.0\OOP.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\Arquitetura\OOP\obj\Debug\net5.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\Arquitetura\OOP\obj\Debug\net5.0\OOP.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\Arquitetura\OOP\obj\Debug\net5.0\OOP.AssemblyInfo.cs
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\Arquitetura\OOP\obj\Debug\net5.0\OOP.csproj.CoreCompileInputs.cache
