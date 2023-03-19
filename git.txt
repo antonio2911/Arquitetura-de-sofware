@@ -14,4 +14,4 @@ git push -u origin main
 git remote add origin https://github.com/antonio2911/Arquitetura-de-sofware.git
  git branch -M main 
 git push -u origin main
-teste
+teste push -m esteja
