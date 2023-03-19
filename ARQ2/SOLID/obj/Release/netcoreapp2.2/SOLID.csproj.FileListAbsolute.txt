@@ -1,0 +1,13 @@
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\bin\Release\netcoreapp2.2\SOLID.deps.json
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\bin\Release\netcoreapp2.2\SOLID.runtimeconfig.json
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\bin\Release\netcoreapp2.2\SOLID.runtimeconfig.dev.json
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\bin\Release\netcoreapp2.2\SOLID.dll
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\bin\Release\netcoreapp2.2\SOLID.pdb
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\obj\Release\netcoreapp2.2\SOLID.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\obj\Release\netcoreapp2.2\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\obj\Release\netcoreapp2.2\SOLID.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\obj\Release\netcoreapp2.2\SOLID.AssemblyInfo.cs
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\obj\Release\netcoreapp2.2\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\obj\Release\netcoreapp2.2\SOLID.dll
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\obj\Release\netcoreapp2.2\SOLID.pdb
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\SOLID\obj\Release\netcoreapp2.2\SOLID.genruntimeconfig.cache

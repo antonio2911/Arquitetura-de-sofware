@@ -1,0 +1,11 @@
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\DemoDI\obj\Release\net5.0\DemoDI.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\DemoDI\obj\Release\net5.0\DemoDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\DemoDI\obj\Release\net5.0\DemoDI.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\DemoDI\obj\Release\net5.0\DemoDI.AssemblyInfo.cs
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\DemoDI\obj\Release\net5.0\DemoDI.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\DemoDI\obj\Release\net5.0\DemoDI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\DemoDI\obj\Release\net5.0\DemoDI.TagHelpers.input.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\DemoDI\obj\Release\net5.0\DemoDI.TagHelpers.output.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\DemoDI\obj\Release\net5.0\DemoDI.dll
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\DemoDI\obj\Release\net5.0\ref\DemoDI.dll
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\DemoDI\obj\Release\net5.0\DemoDI.pdb

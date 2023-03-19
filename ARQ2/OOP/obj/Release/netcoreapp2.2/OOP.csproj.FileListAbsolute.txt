@@ -1,0 +1,13 @@
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\bin\Release\netcoreapp2.2\OOP.deps.json
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\bin\Release\netcoreapp2.2\OOP.runtimeconfig.json
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\bin\Release\netcoreapp2.2\OOP.runtimeconfig.dev.json
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\bin\Release\netcoreapp2.2\OOP.dll
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\bin\Release\netcoreapp2.2\OOP.pdb
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\obj\Release\netcoreapp2.2\OOP.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\obj\Release\netcoreapp2.2\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\obj\Release\netcoreapp2.2\OOP.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\obj\Release\netcoreapp2.2\OOP.AssemblyInfo.cs
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\obj\Release\netcoreapp2.2\OOP.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\obj\Release\netcoreapp2.2\OOP.dll
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\obj\Release\netcoreapp2.2\OOP.pdb
+C:\Users\antonio.pardim\Desktop\Git\Arquitetura de software\ARQ2\OOP\obj\Release\netcoreapp2.2\OOP.genruntimeconfig.cache
